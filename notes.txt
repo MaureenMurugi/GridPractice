@@ -1,0 +1,5 @@
+dir - 
+cd - change directory - cd ../ cd \ cd Users
+mkdir - make directory
+
+GIT - It is a system that records changes to our files over time

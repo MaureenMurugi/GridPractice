@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+h1 {
+    @font-face {
+        font-family: 'Jacquard 12';
+        src: url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+    }
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #21f321;
+    padding: 100px;
+}
+
+.grid-item{
+    background-color: bisque;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
